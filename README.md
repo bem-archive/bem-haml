@@ -3,23 +3,17 @@ Also with SCSS and CoffeeScript.
 
 ### How to use?
 
-#### Get NodeJS and NPM
+#### Get top level dependencies
 * [NodeJS](http://nodejs.org/#download)
 * [NPM](http://npmjs.org/)
-
-#### Get HAML
-[HAML](http://haml-lang.com/download.html)
-
-#### Get SASS
-[SASS](http://sass-lang.com/download.html)
-
-#### Get BEM Tools
-[BEM Tools](https://github.com/bem/bem-tools/)
+* [HAML](http://haml-lang.com/download.html)
+* [SASS](http://sass-lang.com/download.html)
+* [BEM Tools](https://github.com/bem/bem-tools/)
 
 #### Copy files
 Copy `.bem/`, `GNUmakefile`, `package.json`, `blocks/`, `pages/` to your project root.
 
-#### Install dependencies
+#### Install npm-dependencies
 Run `npm install` for install all dependencies from `package.json`.
 
 #### Build
